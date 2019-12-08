@@ -1,5 +1,5 @@
 # Used Tools & Technology:
-1. Database: MySQL 8.0.18
+1. Database: MySQL Workbench 8.0.18
 2. Design: Bootstrap
 3. JS: jQuery
 4. Grails Version 3.3.11
